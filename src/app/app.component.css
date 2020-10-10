@@ -1,0 +1,20 @@
+li:hover{
+    background-color: beige;
+}
+li a:visited{
+    background-color: white;
+    border-left: 1px solid black
+}
+.bg1{
+    background-color: silver;
+}
+.navbar-default .navbar-nav > .active{
+    color: #000;
+    background: #d65c14;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #000;
+    background: #d65c14;
+}
